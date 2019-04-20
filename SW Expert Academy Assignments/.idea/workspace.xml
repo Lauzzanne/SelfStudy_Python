@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e59ae116-d7ce-413f-a218-96964500c8af" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Codeit Assignments/.idea/Codeit Assignments.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Codeit Assignments/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Codeit Assignments/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Codeit Assignments/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Codeit Assignments/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Codeit Assignments/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Codeit Assignments/Practice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1215. palindrome02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e59ae116-d7ce-413f-a218-96964500c8af" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +49,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="37" />
     <option name="y" value="27" />
     <option name="width" value="980" />
@@ -145,8 +135,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="30" y="22" width="784" height="832" extended-state="0" />
-    <editor active="true" />
+    <frame x="30" y="22" width="784" height="832" extended-state="1" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24899599" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
